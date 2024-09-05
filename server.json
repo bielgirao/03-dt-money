@@ -23,6 +23,30 @@
       "category": "Study",
       "amount": 8250,
       "createdAt": "2024-09-04T23:21:19.942Z"
+    },
+    {
+      "description": "Study Figma UI/UX",
+      "type": "expense",
+      "category": "Study",
+      "amount": 5500,
+      "createdAt": "2024-09-05T02:14:17.427Z",
+      "id": 4
+    },
+    {
+      "description": "Mobile App Development",
+      "type": "income",
+      "category": "Sale",
+      "amount": 18250,
+      "createdAt": "2024-09-05T02:17:10.137Z",
+      "id": 5
+    },
+    {
+      "description": "New Car Tyres",
+      "type": "expense",
+      "category": "Car",
+      "amount": 2800,
+      "createdAt": "2024-09-05T02:27:30.390Z",
+      "id": 6
     }
   ]
 }
