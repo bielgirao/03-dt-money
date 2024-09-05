@@ -5,7 +5,7 @@
       "description": "Website development",
       "type": "income",
       "category": "Sale",
-      "amount": 14000,
+      "amount": 24000,
       "createdAt": "2024-09-04T23:20:19.942Z"
     },
     {
@@ -13,7 +13,15 @@
       "description": "Food Delivery",
       "type": "expense",
       "category": "Food",
-      "amount": -5000,
+      "amount": 500,
+      "createdAt": "2024-09-04T23:21:19.942Z"
+    },
+    {
+      "id": 3,
+      "description": "Rockeatseat Course",
+      "type": "expense",
+      "category": "Study",
+      "amount": 8250,
       "createdAt": "2024-09-04T23:21:19.942Z"
     }
   ]
