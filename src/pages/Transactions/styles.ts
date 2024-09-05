@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const TransactionContainer = styled.div`
     width: 100%;
@@ -27,14 +27,14 @@ export const TransactionsTable = styled.table`
             border-bottom-right-radius: 6px;
         }
     }
-`;
+`
 
 interface PriceHighLightProps {
-    variant: 'income'|'expense';
+  variant: 'income' | 'expense';
 }
 
 export const PriceHighLight = styled.span<PriceHighLightProps>`
-    color: ${props => props.variant === 'income' ? props.theme['green-300'] : props.theme['red-300'] };
-`;
-
-
+    color: ${props => props.variant === 'income'
+? props.theme['green-300']
+: props.theme['red-300']};
+`
